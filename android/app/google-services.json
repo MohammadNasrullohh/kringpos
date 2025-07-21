@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988298721966",
+    "firebase_url": "https://kkkk-be4e1-default-rtdb.firebaseio.com",
+    "project_id": "kkkk-be4e1",
+    "storage_bucket": "kkkk-be4e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988298721966:android:b274cbf25de59f92318b3f",
+        "android_client_info": {
+          "package_name": "com.example.kasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbm4FNBaPlCHbKSGksJW88u2IuSww8lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
