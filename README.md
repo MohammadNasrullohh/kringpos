@@ -21,4 +21,4 @@ KringPos adalah aplikasi kasir mobile yang dirancang untuk membantu usaha kecil 
 Untuk menginstal aplikasi KringPos, ikuti langkah-langkah berikut:
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/kringpos.git
+   git clone https://github.com/MohammadNasrulloh/kringpos.git
